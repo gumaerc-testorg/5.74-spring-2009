@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF](resources/mit5_74s09_lec16))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 16: Characterizing Fluctuations'
 uid: 2a692ff4-6042-fdbb-4c25-9238217183ec

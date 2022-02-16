@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF](resources/mit5_74s09_lec14))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 14: Diagrammatic perturbation theory'
 uid: fedae32c-e9c4-5440-0aa5-e0a0dc4a9de5

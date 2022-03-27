@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](resources/mit5_74s09_lec15))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: Third order spectroscopy'
 uid: 0dbb55ab-2db7-7221-606a-06fe85856a57
 video_files:

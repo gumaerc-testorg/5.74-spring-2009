@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: cd4e7136-47d4-809e-402c-c08e932758aa
 resourcetype: Other
 title: Gaussian stochastic model for lineshape
 uid: 3773e5d3-c223-414d-c7c5-6c25b58aa82e

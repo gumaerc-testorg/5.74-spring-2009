@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: cd4e7136-47d4-809e-402c-c08e932758aa
 resourcetype: Other
 title: Displaced harmonic oscillator lineshape
 uid: c28373b4-dc4e-c710-011f-8f786fe0dc1f

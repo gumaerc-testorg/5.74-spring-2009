@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](resources/mit5_74s09_lec16))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 16: Characterizing Fluctuations'
 uid: 2a692ff4-6042-fdbb-4c25-9238217183ec
 video_files:

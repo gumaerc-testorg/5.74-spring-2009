@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: cd4e7136-47d4-809e-402c-c08e932758aa
 resourcetype: Other
 title: 'Displaced harmonic oscillator lineshape: temperature'
 uid: 193ee76b-9c8f-9c2b-c69c-c048860ebcfc

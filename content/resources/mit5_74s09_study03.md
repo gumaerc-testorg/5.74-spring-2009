@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: cd4e7136-47d4-809e-402c-c08e932758aa
 resourcetype: Document
 title: Absorption Lineshape for the Displaced Harmonic Oscillator Model
 uid: ad9c3923-1dda-ad81-ca3c-90cb3016a2a6

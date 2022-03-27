@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: cd4e7136-47d4-809e-402c-c08e932758aa
 resourcetype: Document
 title: Gaussian-stochastic model for the absorption lineshape
 uid: 419284df-39b1-e61e-000b-3f60111ffa3e

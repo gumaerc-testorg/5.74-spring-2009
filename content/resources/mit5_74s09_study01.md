@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8ffc8ced-be0a-98b7-2788-84ee7562ed7e
 resourcetype: Document
 title: Resonant driving of two-level system
 uid: ce31b1b8-3428-fc37-3170-470bbf4e5a6d

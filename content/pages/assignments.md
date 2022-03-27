@@ -51,7 +51,7 @@ Problem set 1 ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset01))
 
 Problem set 2 ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset02))
 
-Trajectory for problem 3 ([DAT](/courses/chemistry/5-74-introductory-quantum-mechanics-ii-spring-2009/assignments/cf2.dat))
+Trajectory for problem 3 ([DAT]({{< baseurl >}}/resources/cf2))
 
 
 {{< tdclose >}}

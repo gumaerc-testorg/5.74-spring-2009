@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides problem on introductory quantum mechanics, including
+  numerical problems involving the manipulation of matrices and vectors.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: 8ffc8ced-be0a-98b7-2788-84ee7562ed7e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 In the following table, problem sets are listed by the lecture in which they are due. Problem set 0 is not graded so there is no due date.
@@ -29,7 +35,7 @@ ASSIGNMENTS
  
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 0 ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset0))
+Problem set 0 ({{% resource_link a84bc298-f23f-2c31-06ce-0fdfac156cdc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -38,7 +44,7 @@ Problem set 0 ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset0))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 1 ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset01))
+Problem set 1 ({{% resource_link 5a2d901b-a7a5-1706-235d-75db5e0ee065 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,9 +55,9 @@ Problem set 1 ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset01))
 {{< tdopen >}}
 
 
-Problem set 2 ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset02))
+Problem set 2 ({{% resource_link 207b47fd-bf37-d6ef-19ee-17f37584c9be "PDF" %}})
 
-Trajectory for problem 3 ([DAT]({{< baseurl >}}/resources/cf2))
+Trajectory for problem 3 ({{% resource_link eb640d9a-3012-3e00-2700-0447d2f9fdab "DAT" %}})
 
 
 {{< tdclose >}}
@@ -62,7 +68,7 @@ Trajectory for problem 3 ([DAT]({{< baseurl >}}/resources/cf2))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 3 ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset03))
+Problem set 3 ({{% resource_link 83789222-8347-43f5-b59f-476da566ac1b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +77,7 @@ Problem set 3 ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset03))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 4 ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset04))
+Problem set 4 ({{% resource_link 056900eb-c4e5-2fd3-67fd-6db637ad1b1c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +86,7 @@ Problem set 4 ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset04))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 5 (take-home exam) ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset05))
+Problem set 5 (take-home exam) ({{% resource_link d46565e2-d748-366e-1bb7-6fe03cb5bd9e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +95,7 @@ Problem set 5 (take-home exam) ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset0
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Nonlinear spectroscopy problems ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset6))
+Nonlinear spectroscopy problems ({{% resource_link d8928cf7-fd23-9c0a-5f6a-f9d94ca9b47c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

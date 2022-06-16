@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting file for a problem on numerical calculation of correlation
   function from a trajectory.
-file: /media/courses/5-74-introductory-quantum-mechanics-ii-spring-2009/eb640d9a30123e0027000447d2f9fdab_cf2.dat
+file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2009/eb640d9a30123e0027000447d2f9fdab_cf2.dat
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ resourcetype: Other
 title: Trajectory for problem 3
 uid: eb640d9a-3012-3e00-2700-0447d2f9fdab
 ---
+Supporting file for a problem on numerical calculation of correlation function from a trajectory.
+

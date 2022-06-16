@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Lecture Notes ([PDF](resources/mit5_74s09_lec13))
+related_resources_text: Lecture Notes ([PDF](/courses/5-74-introductory-quantum-mechanics-ii-spring-2009/resources/mit5_74s09_lec13))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''

@@ -6,6 +6,7 @@ file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2009/d8928cf7fd239c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on nonlinear spectroscopy, the nonlinear response function, second order response functions, and nonlinear experiments on an anharmonic vibration.
-

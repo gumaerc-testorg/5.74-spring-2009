@@ -6,6 +6,7 @@ file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2009/d46565e2d74836
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on density matrix description of the linear response function and vibrational relaxation in a triatomic.
-

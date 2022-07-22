@@ -7,6 +7,7 @@ file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2009/207b47fdbf37d6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on magnetic dipole and electric quadrupole transitions, the infrared rotational-vibrational spectrum of a diatomic, and numerical calculation of correlation function from a trajectory.
-

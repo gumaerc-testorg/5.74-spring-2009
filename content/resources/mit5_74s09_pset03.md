@@ -6,6 +6,7 @@ file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2009/83789222834743
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on relaxation from a prepared state, harmonic oscillators, displaced harmonic oscillator model, and transformation between Hamiltonians.
-

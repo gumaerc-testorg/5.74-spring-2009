@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF](/courses/5-74-introductory-quantum-mechanics-ii-spring-2009/resources/mit5_74s09_lec13))
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 13: Nonlinear polarization'
 uid: 4323df82-3c7d-793f-ed8e-293a68a913a9
 video_files:

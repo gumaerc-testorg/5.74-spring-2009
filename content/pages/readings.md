@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section provides a list of textbooks, additional references, and
+  suggested readings for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: e21d0767-e5af-7135-7d00-501651409b37
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 There are no required books for the class, but you will need to read on the lecture topics in some of the following references. [Specific readings](#Suggested_Readings) are suggested in the table below, where the texts are referred to by number.

@@ -4,6 +4,7 @@ description: Problem set on the displaced harmonic oscillator model at finite te
   absorption lineshape from a frequency correlation function, and quantum absorption
   lineshape from classical correlation function.
 file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2009/056900ebc4e52fd367fd6db637ad1b1c_MIT5_74s09_pset04.pdf
+file_size: 50052
 file_type: application/pdf
 learning_resource_types:
 - Assignments

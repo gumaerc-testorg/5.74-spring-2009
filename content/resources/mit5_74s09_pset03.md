@@ -3,6 +3,7 @@ content_type: resource
 description: Problem set on relaxation from a prepared state, harmonic oscillators,
   displaced harmonic oscillator model, and transformation between Hamiltonians.
 file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2009/83789222834743f5b59f476da566ac1b_MIT5_74s09_pset03.pdf
+file_size: 140550
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: Problem set on nonlinear spectroscopy, the nonlinear response function,
   second order response functions, and nonlinear experiments on an anharmonic vibration.
 file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2009/d8928cf7fd239c0a5f6af9d94ca9b47c_MIT5_74s09_pset6.pdf
+file_size: 154706
 file_type: application/pdf
 learning_resource_types:
 - Assignments

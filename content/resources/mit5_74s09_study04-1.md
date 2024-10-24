@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Study materials on absorption lineshape for the displaced harmonic oscillator
   model. '
-file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2009/193ee76b9c8f9c2bc69cc048860ebcfc_MIT5_74s09_study04.xmcd
+file: /ol-ocw-studio-app/courses/5-74-introductory-quantum-mechanics-ii-spring-2009/193ee76b9c8f9c2bc69cc048860ebcfc_MIT5_74s09_study04.xmcd
 file_size: 105843
 file_type: text/xml
 learning_resource_types: []

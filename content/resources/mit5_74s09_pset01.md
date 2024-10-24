@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on functions of operators, displacement operators, time-development
   of the density matrix, and electronic excitation by electron scattering.
-file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2009/5a2d901ba7a51706235d75db5e0ee065_MIT5_74s09_pset01.pdf
+file: /ol-ocw-studio-app/courses/5-74-introductory-quantum-mechanics-ii-spring-2009/5a2d901ba7a51706235d75db5e0ee065_MIT5_74s09_pset01.pdf
 file_size: 96458
 file_type: application/pdf
 learning_resource_types:

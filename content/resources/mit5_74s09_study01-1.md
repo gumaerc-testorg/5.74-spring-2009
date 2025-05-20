@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study materials on resonant driving of two-level system.
-file: /ol-ocw-studio-app/courses/5-74-introductory-quantum-mechanics-ii-spring-2009/370153a28a496562ed26676874f8d55f_MIT5_74s09_study01.xmcd
+file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2009/370153a28a496562ed26676874f8d55f_MIT5_74s09_study01.xmcd
 file_size: 88050
 file_type: text/xml
 learning_resource_types: []

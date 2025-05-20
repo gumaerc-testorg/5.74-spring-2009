@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thumbnail image accompanying a video lecture on nonlinear polarization.
-file: /ol-ocw-studio-app/courses/5-74-introductory-quantum-mechanics-ii-spring-2009/eafef26cfc06cf8eb83198facfdf3b18_MIT5_74S09lec13_thumb.jpg
+file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2009/eafef26cfc06cf8eb83198facfdf3b18_MIT5_74S09lec13_thumb.jpg
 file_size: 4850
 file_type: image/jpeg
 image_metadata:

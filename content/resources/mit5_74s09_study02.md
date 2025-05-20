@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study guide on time development of a coupled two level system.
-file: /ol-ocw-studio-app/courses/5-74-introductory-quantum-mechanics-ii-spring-2009/daf6b841ac13198f46804d1179c528d6_MIT5_74s09_study02.pdf
+file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2009/daf6b841ac13198f46804d1179c528d6_MIT5_74s09_study02.pdf
 file_size: 81526
 file_type: application/pdf
 learning_resource_types: []

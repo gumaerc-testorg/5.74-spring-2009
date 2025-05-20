@@ -2,7 +2,7 @@
 content_type: resource
 description: Thumbnail image accompanying a video lecture on diagrammatic perturbation
   theory.
-file: /ol-ocw-studio-app/courses/5-74-introductory-quantum-mechanics-ii-spring-2009/dab475322a814cb8ac7d22e404cf28f2_MIT5_74S09lec14_thumb.jpg
+file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2009/dab475322a814cb8ac7d22e404cf28f2_MIT5_74S09lec14_thumb.jpg
 file_size: 4713
 file_type: image/jpeg
 image_metadata:

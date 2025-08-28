@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study guide on the Gaussian-stochastic model for the absorption lineshape.
-file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2009/419284df39b1e61e000b3f60111ffa3e_MIT5_74s09_study05.pdf
+file: /ol-ocw-studio-app/courses/5-74-introductory-quantum-mechanics-ii-spring-2009/419284df39b1e61e000b3f60111ffa3e_MIT5_74s09_study05.pdf
 file_size: 64492
 file_type: application/pdf
 learning_resource_types: []

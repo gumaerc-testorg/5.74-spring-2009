@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thumbnail image accompanying a video lecture on third order spectroscopy.
-file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2009/1fcbec9cc092c7065abd931658c1c22a_MIT5_74S09lec15_thumb.jpg
+file: /ol-ocw-studio-app/courses/5-74-introductory-quantum-mechanics-ii-spring-2009/1fcbec9cc092c7065abd931658c1c22a_MIT5_74S09lec15_thumb.jpg
 file_size: 4890
 file_type: image/jpeg
 image_metadata:

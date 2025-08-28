@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
-file_size: null
+file_size: 225749377
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -19,7 +19,7 @@ start_time: ''
 title: 'Lecture 13: Nonlinear polarization'
 uid: 4323df82-3c7d-793f-ed8e-293a68a913a9
 video_files:
-  archive_url: http://www.archive.org/download/MIT5_74S09/MIT5_74S09lec13.mp4
+  archive_url: https://ia600200.us.archive.org/30/items/MIT5_74S09/MIT5_74S09lec13_300k.mp4
   video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/Uic47mwXNuQ/default.jpg
   video_transcript_file: null

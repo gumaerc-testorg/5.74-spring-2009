@@ -13,7 +13,7 @@ video_metadata:
   youtube_id: null
 ---
 
-Students are encouraged to print and read the course lecture notes in advance of lectures. Prof. Tokmakoff maintains the [Time-Dependent Quantum Mechanics and Spectroscopy Web site](http://tdqms.uchicago.edu/) with the most recent and complete pdf version of the notes.
+Students are encouraged to print and read the course lecture notes in advance of lectures. Prof. Tokmakoff maintains the {{% resource_link "08df64d8-1922-4232-81a8-c224439e4d25" "Time-Dependent Quantum Mechanics and Spectroscopy Web site" %}} with the most recent and complete pdf version of the notes.
 
 {{< tableopen >}}
 {{< theadopen >}}
